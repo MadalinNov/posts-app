@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/posts-app/static/css/main.dbbe14f5.chunk.css",
+    "main.js": "/posts-app/static/js/main.2f21140a.chunk.js",
+    "main.js.map": "/posts-app/static/js/main.2f21140a.chunk.js.map",
+    "runtime-main.js": "/posts-app/static/js/runtime-main.7ed4c52a.js",
+    "runtime-main.js.map": "/posts-app/static/js/runtime-main.7ed4c52a.js.map",
+    "static/js/2.7e831a54.chunk.js": "/posts-app/static/js/2.7e831a54.chunk.js",
+    "static/js/2.7e831a54.chunk.js.map": "/posts-app/static/js/2.7e831a54.chunk.js.map",
+    "static/js/3.098a1a6e.chunk.js": "/posts-app/static/js/3.098a1a6e.chunk.js",
+    "static/js/3.098a1a6e.chunk.js.map": "/posts-app/static/js/3.098a1a6e.chunk.js.map",
+    "index.html": "/posts-app/index.html",
+    "static/css/main.dbbe14f5.chunk.css.map": "/posts-app/static/css/main.dbbe14f5.chunk.css.map",
+    "static/js/2.7e831a54.chunk.js.LICENSE.txt": "/posts-app/static/js/2.7e831a54.chunk.js.LICENSE.txt",
+    "static/media/Post.css": "/posts-app/static/media/pexels-pixabay-248537.1cd27672.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ed4c52a.js",
+    "static/js/2.7e831a54.chunk.js",
+    "static/css/main.dbbe14f5.chunk.css",
+    "static/js/main.2f21140a.chunk.js"
+  ]
+}
